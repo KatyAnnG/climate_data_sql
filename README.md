@@ -61,11 +61,6 @@ For this project, I used the ECA meteorological daily mean temperature datasets.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- CONCLUSIONS -->
-## Conclusions
-
-
-
 <!-- Feedback -->
 ## Feedback
 
