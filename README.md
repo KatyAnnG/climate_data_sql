@@ -25,7 +25,6 @@
         <li><a href="#how">How?</a></li>
       </ul>
     </li>
-    <li><a href="#conclusions">Conclusions</a></li>
     <li><a href="#feedback">Feedback</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
